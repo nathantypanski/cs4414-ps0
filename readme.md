@@ -13,3 +13,4 @@ File descriptions
 - `fizzbuzz.rs`: Implementation of [Fizz Buzz](http://c2.com/cgi/wiki?FizzBuzzTest),
   a simple, common test used on computer programmers.
 - `matching.rs`: Solution to [An Exercise in Matching](http://aml3.github.io/RustTutorial/html/01.html#An_Exercise_in_Matching) from the tutorial.
+- `collatz_orig.rs`: The original collatz program, from [the tutorial](http://aml3.github.io/RustTutorial/html/01.html#Finding_a_Collatz_Sequence:)
