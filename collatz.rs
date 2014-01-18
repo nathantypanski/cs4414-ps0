@@ -7,8 +7,8 @@ fn main() {
 	}
 
 	let i = from_str::<int>(os::args()[1]).unwrap();
-        let mut j = 0;
-        while collatz(j) < i {
+        let mut j = 1;
+        while collatz(j) != i {
             j = j + 1;
         }
         println!("{:d}", j);
